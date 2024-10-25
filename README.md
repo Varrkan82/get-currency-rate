@@ -1,5 +1,5 @@
 # get-currency-rate
-Get currency rate from NBU official site for supported currencies. Dates are supported.
+Get currency rate from National Bank of Ukraine official site for supported currencies. Dates are supported.
 
 ## Usage:
 
